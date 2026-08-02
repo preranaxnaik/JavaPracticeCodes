@@ -6,7 +6,7 @@ public class FinalVariable {
     final static int x = 9;
 
     // Final instance variable
-    final int y = 100;
+    final String COMPANY = "TNS";
 
     // Final method
     final void finalMethod() {

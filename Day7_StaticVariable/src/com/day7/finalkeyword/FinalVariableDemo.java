@@ -16,7 +16,7 @@ public class FinalVariableDemo extends FinalVariable {
         System.out.println("Value of x = " + x);
 
         // Accessing final instance variable
-        System.out.println("Value of y = " + obj.y);
+        System.out.println("Value of y = " + obj.COMPANY);
 
         // Calling final method
         obj.finalMethod();

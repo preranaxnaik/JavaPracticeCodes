@@ -9,6 +9,12 @@ public class EmployeeData {
 		Employee e2 = new Employee("Prerana",102);
 		System.out.println(e2);
 
+        System.out.println();
+
+        Employee.companyName = "Google";
+
+        System.out.println(e1);
+        System.out.println(e2);
 	}
 
 }
