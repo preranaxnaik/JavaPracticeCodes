@@ -7,6 +7,6 @@ abstract class Shape {
 
     // Concrete method
     void show() {
-        System.out.println("This is a concrete method in the abstract class.That is method described without abstract keyword");
+        System.out.println("This is a concrete method in the abstract class i.e method described without abstract keyword");
     }
 }
