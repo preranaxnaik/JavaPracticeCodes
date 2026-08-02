@@ -6,6 +6,7 @@ public class Person {
 	private long contactNo;
 	
 	
+	
 	public Person(String name, long contactNo) {
 		//super();
 		this.name = name;
