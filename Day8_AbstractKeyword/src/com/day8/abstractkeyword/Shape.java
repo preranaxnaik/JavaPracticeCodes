@@ -1,12 +1,14 @@
 package com.day8.abstractkeyword;
 
-abstract class Shape {
+//abstract class
+public abstract class Shape {
+	protected float area;
 
     // Abstract method (no body)
     abstract void calcArea();
 
     // Concrete method
     void show() {
-        System.out.println("This is a concrete method in the abstract class i.e method described without abstract keyword");
+        System.out.println("The area of the shape is : "+ area);
     }
 }
