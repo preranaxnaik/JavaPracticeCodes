@@ -7,7 +7,7 @@ public class Student {
 		System.out.println("Please enter your details :");
 	}
 	
-	//number odf parameters
+	//number of parameters
 	public void studentDetails(int id, String name) {
 		System.out.println("Please enter your details :");
 	}
