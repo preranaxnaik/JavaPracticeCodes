@@ -13,7 +13,7 @@ public class ShapeDemo {
 		for(Shape s : shapes) {
 			s.draw();
 			s.erase();
-			System.out.println();
+			System.out.println("---------------------------------------------------------");
 		}
 	}
 
